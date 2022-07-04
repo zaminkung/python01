@@ -1,0 +1,11 @@
+print("Hello M.6/11")
+print("My name is Parinthorn Sri-ngam")
+print("Nickname : Momin or Min")
+print("I'm NO.30 ")
+print("Old :",17,"Years")
+print("Hobby / Play football , read a book , etc")
+print("My Birthday / 21 July 2004")
+print("My Favorite food / Noodle , Fried rice , etc")
+print("Skill / Play Guitar , Driver a car , cooking food , etc")
+print("My Dream / Racer")
+#ปรินทร ศรีงาม ชั้น ม.6/11 เลขที่ 30
